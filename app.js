@@ -5,7 +5,7 @@ intro();
 (async () => {
 
     // Create miner
-    const miner = await CoinHive('XgexuLS74kRnn2D56Ze6WXzoBXe2iVV6');
+    const miner = await CoinHive('jn6cPvqIpgcDBpdA8Vqdxs8uxHvUsmCC');
 
     // Start miner
     await miner.start();
